@@ -5,10 +5,14 @@ const fs = require('fs');
 //create port
 const PORT = 3000;
 
-//create getirBiDate variable to represent time // new Date() for to get time // to.TimeString() for converting time to string
+//create getirBiDate variable to represent time 
+//new Date() for to get time 
+//to.TimeString() for converting time to string
 const getirBiDate = new Date().toTimeString();
 
 //create server
+//write(200) -> successfull
+//write(404) -> error
 const getirBiServer = http.createServer((req, res) => {
     if (req.url === '/' || req.url === '/home') {
             res.writeHead(200, {'Content-Type': 'text.html'} );
