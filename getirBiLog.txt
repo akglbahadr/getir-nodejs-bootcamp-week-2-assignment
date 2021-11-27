@@ -1,0 +1,6 @@
+/ requested, at 22:44:25 GMT+0300 (GMT+03:00) returned the page successfully!
+/home requested, at 22:44:25 GMT+0300 (GMT+03:00) returned the page successfully!
+/home requested, at 22:52:18 GMT+0300 (GMT+03:00) returned the page successfully!
+/hom requested, at 22:52:18 GMT+0300 (GMT+03:00)  returned 404 PAGE NOT FOUND!
+/about requested, at 22:52:18 GMT+0300 (GMT+03:00) returned the page successfully!
+/contact requested, at 22:52:18 GMT+0300 (GMT+03:00) returned the page successfully!
