@@ -1,0 +1,1 @@
+# getir-nodejs-bootcamp-week-2-assignment
